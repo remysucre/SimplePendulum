@@ -1,5 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1486253140 "proj1b.tex" "proj1b.pdf" "proj1b" 1486253142
+["pdflatex"] 1486314707 "proj1b.tex" "proj1b.pdf" "proj1b" 1486314708
+  "../figures/phaseSpace.png" 1486252813 110166 b8e758f0911170c6a6ef3646f980b829 ""
+  "../figures/phaseSpaceDot.png" 1486252814 114698 d5265ee4a8c4a8f710599d84f6d74df9 ""
+  "../figures/phaseSpaceDot2.png" 1486252816 63508 45f570d07a75721da1625a615db103ce ""
+  "../figures/phaseSpaceLinear.png" 1486254552 108850 9f4d8be6bc02c5e5433206b1db8ba968 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -63,13 +67,9 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1479769544 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "figures/phaseSpace.png" 1486252813 110166 b8e758f0911170c6a6ef3646f980b829 ""
-  "figures/phaseSpaceDot.png" 1486252814 114698 d5265ee4a8c4a8f710599d84f6d74df9 ""
-  "figures/phaseSpaceDot2.png" 1486252816 63508 45f570d07a75721da1625a615db103ce ""
-  "figures/phaseSpaceLinear.png" 1486236583 77848 37abd38a1413c170d308f6069cd289b5 ""
-  "proj1b.aux" 1486253141 627 7e48ff678bc4d57c15afa5946440853b ""
-  "proj1b.tex" 1486253139 1591 266d0aeb857e3d0084e74dd05ad51896 ""
+  "proj1b.aux" 1486314708 631 e923681b51a365a8c562bebaf85561e8 ""
+  "proj1b.tex" 1486314707 2002 07d667254b31ee138861aaf8b1889d19 ""
   (generated)
+  "proj1b.aux"
   "proj1b.pdf"
   "proj1b.log"
-  "proj1b.aux"

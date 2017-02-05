@@ -7,7 +7,7 @@
 \newcommand{\N}{\mathbb{N}}
 \newcommand{\Z}{\mathbb{Z}}
  
-\newenvironment{problem}[2]{\begin{trivlist}
+\newenvironment{problem}[2][]{\begin{trivlist}
 \item[\hskip \labelsep {\bfseries #1}\hskip \labelsep {\bfseries #2.}]}{\end{trivlist}}
 
  
@@ -18,23 +18,23 @@
 \maketitle
  
 \begin{problem}{1}
-	Phase space of unmodified nonlinear pendulum
+	\textbf{Phase space of nonlinear pendulum}
 
-\begin{figure}[h!]
-  \includegraphics[scale=0.7]{figures/phaseSpace.png}
+\begin{figure}[ht!]
+  \includegraphics[scale=0.7]{../figures/phaseSpace.png}
   \caption{Plots of trajectory $(\theta,\dot{\theta})$, for many values of $\theta_{0} \in [0,\pi]$}
-  \label{fig:phase1}
+  \label{phase}
 \end{figure}
 
-\begin{figure}[h!]
+\begin{figure}[ht!]
 	\centering
 	\begin{minipage}[b]{0.4\textwidth}
-		\includegraphics[scale=0.6]{figures/phaseSpaceDot.png}
+		\includegraphics[scale=0.6]{../figures/phaseSpaceDot.png}
 		\label{phaseDot}
 	\end{minipage}
 	\hfill
 	\begin{minipage}[b]{0.4\textwidth}
-		\includegraphics[scale=0.6]{figures/phaseSpaceDot2.png}
+		\includegraphics[scale=0.6]{../figures/phaseSpaceDot2.png}
 		\label{phaseDot2}
 	\end{minipage}
 	\caption{Trajectory for various $\dot{\theta}$}
@@ -42,32 +42,34 @@
 \end{problem}
  
 \begin{problem}{2}
-	Phase space of linear pendulum
+	\textbf{Phase space of linear pendulum}
 \begin{figure}[h!]
-  \includegraphics[scale=0.7]{figures/phaseSpaceLinear.png}
-  \caption{Plots of trajectory $(\theta,\dot{\theta})$, for many values of $\theta_{0} \in [0,\pi]$}
-  \label{fig:phase1}
+\centering
+  \includegraphics[scale=0.6]{../figures/phaseSpaceLinear.png}
+  \caption{Plots of linearized trajectory $(\theta,\dot{\theta})$, for many values of $\theta_{0} \in [0,\pi]$}
+  \label{phaseLin}
 \end{figure}
 \end{problem}
 
 \begin{problem}{3}
-	Pendulum with driving force
+	\textbf{Pendulum with driving force, $\gamma k^{2}cos(\omega t)$}
 \end{problem}
 
 \begin{problem}{4}
-
+	\textbf{Exploration of driven system} \\
+	For fixed $\theta$ and $\dot{\theta}$, how do the real and phase space trajectories vary with $\gamma$
 \end{problem}
 
 \begin{problem}{5}
-
+	\textbf{Identifying $(\theta_{0},\gamma)$ for which the motion diverges}
 \end{problem}
 
 \begin{problem}{6}
+	\textbf{Driven pendulum with damping} $\ddot{\theta}+2\beta\dot{\theta}+k^{2}sin\theta=\gamma k^{2}cos(\omega t)$ \\
 
 \end{problem}
 
 \begin{problem}{7}
-
 \end{problem}
 
 
