@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1486314707 "proj1b.tex" "proj1b.pdf" "proj1b" 1486314708
+["pdflatex"] 1486347394 "proj1b.tex" "proj1b.pdf" "proj1b" 1486347397
   "../figures/phaseSpace.png" 1486252813 110166 b8e758f0911170c6a6ef3646f980b829 ""
   "../figures/phaseSpaceDot.png" 1486252814 114698 d5265ee4a8c4a8f710599d84f6d74df9 ""
   "../figures/phaseSpaceDot2.png" 1486252816 63508 45f570d07a75721da1625a615db103ce ""
@@ -67,9 +67,9 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1479769544 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "proj1b.aux" 1486314708 631 e923681b51a365a8c562bebaf85561e8 ""
-  "proj1b.tex" 1486314707 2002 07d667254b31ee138861aaf8b1889d19 ""
+  "proj1b.aux" 1486347397 631 e923681b51a365a8c562bebaf85561e8 ""
+  "proj1b.tex" 1486347390 2030 acea2fa37de0dcaeaaf4d83da11a59dd ""
   (generated)
-  "proj1b.aux"
   "proj1b.pdf"
+  "proj1b.aux"
   "proj1b.log"
