@@ -1,4 +1,4 @@
-PWD /Users/rem/SimplePendulum/latex
+PWD /Users/bzager/Desktop/CompPhys/proj1/SimplePendulum/latex
 INPUT /usr/local/texlive/2016/texmf.cnf
 INPUT /usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -141,6 +141,10 @@ INPUT ../figures/drivingForce.png
 INPUT ../figures/diverge2.png
 INPUT ../figures/diverge2.png
 INPUT ../figures/diverge2.png
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
+INPUT ../figures/dampedDriven.png
+INPUT ../figures/dampedDriven.png
+INPUT ../figures/dampedDriven.png
 INPUT pendulum.aux
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
@@ -148,3 +152,4 @@ INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
