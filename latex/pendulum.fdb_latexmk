@@ -1,7 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1486937613 "pendulum.tex" "pendulum.pdf" "pendulum" 1486937615
+["pdflatex"] 1486938741 "pendulum.tex" "pendulum.pdf" "pendulum" 1486938746
   "../figures/dampedDriven.png" 1486936164 144734 d6d9412ebc6459f64baa439fa7a4c3fb ""
   "../figures/diverge2.png" 1486418664 322040 6d4611aac0c9624ffd0dfbac768b4667 ""
+  "../figures/driving2.png" 1486938472 157133 4ac7777136f66c28ed0c26a456fc3bdc ""
   "../figures/drivingForce.png" 1486418065 88540 ff2dac5e10ccab8766f6b500333d58cd ""
   "../figures/k15_nonlin.pdf" 1486937209 22389 09512aff56d2cf1bc019ac5d468f476b ""
   "../figures/k17_nonlin.pdf" 1486937209 18632 1d25ea2a3e45dbc98a7d10bbac2b8141 ""
@@ -76,9 +77,9 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1479769544 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "pendulum.aux" 1486937615 1512 4dc4237df98669a1a6d7c7616f8ebf85 ""
-  "pendulum.tex" 1486937608 5238 5570a0abb822bde904e5eee3409af457 ""
+  "pendulum.aux" 1486938745 1577 58652d477b9f1f05abee443996e74241 ""
+  "pendulum.tex" 1486938740 5345 60e721fa88c50a502eaafc338ce68d97 ""
   (generated)
+  "pendulum.log"
   "pendulum.pdf"
   "pendulum.aux"
-  "pendulum.log"
