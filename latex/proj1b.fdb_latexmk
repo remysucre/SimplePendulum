@@ -1,5 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1486419916 "proj1b.tex" "proj1b.pdf" "proj1b" 1486419918
+["pdflatex"] 1486936882 "proj1b.tex" "proj1b.pdf" "proj1b" 1486936884
+  "../figures/dampedDriven.png" 1486936164 144734 d6d9412ebc6459f64baa439fa7a4c3fb ""
   "../figures/diverge2.png" 1486418664 322040 6d4611aac0c9624ffd0dfbac768b4667 ""
   "../figures/drivingForce.png" 1486418065 88540 ff2dac5e10ccab8766f6b500333d58cd ""
   "../figures/phaseSpace.png" 1486415819 166919 1ff87fe7563b5e806aac0e8f11f91259 ""
@@ -65,13 +66,14 @@
   "/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty" 1463608860 7075 2fe3d848bba95f139de11ded085e74aa ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty" 1463608860 22417 1d9df1eb66848aa31b18a593099cf45c ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def" 1306616590 55368 3c8a0d99822330f2dfabc0dfb09ce897 ""
+  "/usr/local/texlive/2016/texmf-dist/tex/latex/titlesec/titlesec.sty" 1458858524 37387 afa86533e532701faf233f3f592c61e0 ""
   "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1463093894 31953 b9489e6e586f798610c60aec1f5ec548 ""
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1479769544 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "proj1b.aux" 1486419918 1132 8ab408a5e262c67d73f9a4272d1189fb ""
-  "proj1b.tex" 1486419914 4039 1d1a599d89fb84de385871a63d4e4427 ""
+  "proj1b.aux" 1486936884 1269 71bdce248a84979b52d122a7e41dfbf4 ""
+  "proj1b.tex" 1486936876 4845 081ee481380eb3d04c9029f2517b3c07 ""
   (generated)
   "proj1b.pdf"
-  "proj1b.log"
   "proj1b.aux"
+  "proj1b.log"

@@ -2,7 +2,8 @@
  \usepackage[margin=1in]{geometry} 
 \usepackage{amsmath,amsthm,amssymb,amsfonts}
 \usepackage{graphicx}
-
+\usepackage{titlesec}
+\titleformat*{\section}{\large\bfseries}
  
 \newcommand{\N}{\mathbb{N}}
 \newcommand{\Z}{\mathbb{Z}}
@@ -16,14 +17,19 @@
 \title{Computational Physics Project 1: Pendulum}
 \author{Ben Zager, Remy Wang}
 \maketitle
- 
-%%%%%% 1 %%%%%%
+
+\section*{Part A}
+
+
+
+\section*{Part B}
+%%%%%% 1B %%%%%%
 \begin{problem}{1}
 	\textbf{Phase space of nonlinear pendulum}
 
-	As $\theta_{0}$ approaches $\pi$, the trajectories go from an ellipse to a more "lemon" shape, as seen in figure 1.
+	As $\theta_{0}$ approaches $\pi$, the trajectories go from an ellipse to a more "lemon" shape, as seen in figure \ref{phase}.
 
-	For $\theta_{0} = 0$, varying $\dot{\theta}_{0} \in [0,\pi]$, the phase shows two different behaviors.  For $\dot{\theta}_{0}$ between 0 and approximately $0.6\pi$ the phase space appears similar to the previous one, as seen in figure 2a.  If $\dot{\theta}_{0}$ is greater than that, the motion is no longer periodic, and $\theta$ increases indefinitely, as seen in figure 2b.
+	For $\theta_{0} = 0$, varying $\dot{\theta}_{0} \in [0,\pi]$, the phase shows two different behaviors.  For $\dot{\theta}_{0}$ between 0 and approximately $0.6\pi$ the phase space appears similar to the previous one, as seen in figure \ref{phaseDot}a.  If $\dot{\theta}_{0}$ is greater than that, the motion is no longer periodic, and $\theta$ increases indefinitely, as seen in figure \ref{phaseDot}b.
 
 \begin{figure}[ht!]
 	\centering
@@ -36,21 +42,20 @@
 	\centering
 	\begin{minipage}[b]{0.4\textwidth}
 		\includegraphics[scale=0.6]{../figures/phaseSpaceDot.png}
-		\label{phaseDot}
 	\end{minipage}
 	\hfill
 	\begin{minipage}[b]{0.4\textwidth}
 		\includegraphics[scale=0.6]{../figures/phaseSpaceDot2.png}
-		\label{phaseDot2}
 	\end{minipage}
 	\caption{Trajectory for various $\dot{\theta}$}
+	\label{phaseDot}
 \end{figure}
 \end{problem}
 
-%%%%%% 2 %%%%%%
+%%%%%% 2B %%%%%%
 \begin{problem}{2}
 	\textbf{Phase space of linear pendulum} \\
-	For the linear pendulum, the phase space trajectory remains elliptical for all values of $\theta_{0}$
+	For the linear pendulum, the phase space trajectory remains elliptical for all values of $\theta_{0}$, as seen in figure \ref{phaseLin}
 
 \begin{figure}[h!]
 \centering
@@ -60,7 +65,7 @@
 \end{figure}
 \end{problem}
 
-%%%%%% 3 %%%%%%
+%%%%%% 3B %%%%%%
 \begin{problem}{3}
 	\textbf{Pendulum with driving force, $\gamma k^{2}cos(\omega t)$} \\
 	If a periodic driving force with $\omega = k$ is added, the frequency stays the same, but the ampltude varies periodically, as seen in figure \ref{driving}. 
@@ -72,7 +77,7 @@
 \end{figure}
 \end{problem}
 
-%%%%%% 4 %%%%%%
+%%%%%% 4B %%%%%%
 \begin{problem}{4}
 	\textbf{Exploration of driven system} \\
 	For fixed $\theta$ and $\dot{\theta}$, how do the real and phase space trajectories vary with $\gamma$.  
@@ -81,22 +86,21 @@
 	\centering
 	\begin{minipage}[b]{0.4\textwidth}
 		%\includegraphics[scale=0.6]{../figures/.png}
-		\label{}
 	\end{minipage}
 	\hfill
 	\begin{minipage}[b]{0.4\textwidth}
 		%\includegraphics[scale=0.6]{../figures/.png}
-		\label{}
 	\end{minipage}
 	\caption{}
+	\label{diving2}
 \end{figure}
 \end{problem}
 
-%%%%%% 5 %%%%%%
+%%%%%% 5B %%%%%%
 \begin{problem}{5}
 	\textbf{Identifying $(\theta_{0},\gamma)$ for which the motion diverges} \\
 
-	Figure 6 shows the phase plot for $(\theta_{0},\gamma)$ for $\theta_{0} \in [0,\pi]$, and $\gamma \in [0,6]$, after a time interval of $8\pi$ seconds.  The white regions indicate values for which the motion remained periodic. The blue regions indicate values for which the motion diverged.  The darker the color, the greater the value of $\theta$ at the end of the time interval.
+	Figure \ref{diverge} shows the phase plot for $(\theta_{0},\gamma)$ for $\theta_{0} \in [0,\pi]$, and $\gamma \in [0,6]$, after a time interval of $8\pi$ seconds.  The white regions indicate values for which the motion remained periodic. The blue regions indicate values for which the motion diverged.  The darker the color, the greater the value of $\theta$ at the end of the time interval.
 \begin{figure}[h!]
 	\centering
   	\includegraphics[scale=0.5]{../figures/diverge2.png}
@@ -105,17 +109,47 @@
 \end{figure}
 \end{problem}
 
-%%%%%% 6 %%%%%%
+%%%%%% 6B %%%%%%
 \begin{problem}{6}
 	\textbf{Driven pendulum with damping} $\ddot{\theta}+2\beta\dot{\theta}+k^{2}sin\theta=\gamma k^{2}cos(\omega t)$ \\
 
+As $\gamma$ increases, the pendulum transitions to chaos, as seen in figure \ref{damped}.  This transition is known as \textit{period doubling}, which is apparent 
+
+\begin{figure}[h!]
+	\centering
+  	\includegraphics[scale=0.5]{../figures/dampedDriven.png}
+ 	\caption{Plots of driven damped pendulum for various values of $\gamma \in [0,2]$}
+  	\label{damped}
+\end{figure}
 
 \end{problem}
 
-%%%%%% 7 %%%%%%
+%%%%%% 7B %%%%%%
 \begin{problem}{7}
 	\textbf{Fourier analysis}
 \end{problem}
 
+\section*{Part C}
+
+%%%%%% 1C %%%%%%
+\begin{problem}{1}
+\textbf{Visualization}
+
+\end{problem}
+
+%%%%%% 2C %%%%%%
+\begin{problem}{2}
+\textbf{Lyapunov exponent}
+\end{problem}
+
+%%%%%% 3C %%%%%%
+\begin{problem}{3}
+\textbf{Transition to Chaos}
+\end{problem}
+
+%%%%%% 4C %%%%%%
+\begin{problem}{4}
+\textbf{Time for Pendulum to Flip}
+\end{problem}
 
 \end{document}
