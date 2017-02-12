@@ -1,9 +1,10 @@
 # Fdb version 3
-["pdflatex"] 1486939048 "pendulum.tex" "pendulum.pdf" "pendulum" 1486939055
+["pdflatex"] 1486940541 "pendulum.tex" "pendulum.pdf" "pendulum" 1486940543
   "../figures/dampedDriven.png" 1486936164 144734 d6d9412ebc6459f64baa439fa7a4c3fb ""
   "../figures/diverge2.png" 1486418664 322040 6d4611aac0c9624ffd0dfbac768b4667 ""
   "../figures/driving2.png" 1486938472 157133 4ac7777136f66c28ed0c26a456fc3bdc ""
   "../figures/drivingForce.png" 1486418065 88540 ff2dac5e10ccab8766f6b500333d58cd ""
+  "../figures/fourier.png" 1486940347 47552 bfab62c70f441524f15d75c3e23d59d4 ""
   "../figures/k15_nonlin.pdf" 1486937209 22389 09512aff56d2cf1bc019ac5d468f476b ""
   "../figures/k17_nonlin.pdf" 1486937209 18632 1d25ea2a3e45dbc98a7d10bbac2b8141 ""
   "../figures/k3_nonlin.pdf" 1486937209 16806 abbe7b9c05dcf284f5425e70ae17e2e1 ""
@@ -78,10 +79,11 @@
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
   "A_part.tex" 1486938802 637 b0cc3c1d5c401c50ca7a6b62fcade432 ""
-  "B_part.tex" 1486938961 3924 0c3173615c7272c39f54948c570d2511 ""
-  "pendulum.aux" 1486939055 1577 58652d477b9f1f05abee443996e74241 ""
-  "pendulum.tex" 1486939047 582 fac500d66da5238f6a15b49bd5f4738e ""
+  "B_part.tex" 1486940533 4354 b4d83981fcb565324ef239f4e4b54383 ""
+  "C_part.tex" 1486939613 706 747c5eb6f33b79c90fa388825332ffbd ""
+  "pendulum.aux" 1486940543 2146 43f123b650357fef4579374b3f879df3 ""
+  "pendulum.tex" 1486939321 596 43123ef9aac06c8537c7f51aba26803b ""
   (generated)
-  "pendulum.log"
   "pendulum.pdf"
+  "pendulum.log"
   "pendulum.aux"

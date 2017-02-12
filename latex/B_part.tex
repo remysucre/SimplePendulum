@@ -1,5 +1,3 @@
-
-
 %%%%%% 1B %%%%%%
 \begin{problem}{1}
 	\textbf{Phase space of nonlinear pendulum}
@@ -12,7 +10,7 @@
 	\centering
 	\includegraphics[scale=0.6]{../figures/phaseSpace.png}
 	\caption{Plots of trajectory $(\theta,\dot{\theta})$, for many values of $\theta_{0} \in [0,\pi]$}
-	3\label{phase}
+	\label{phase}
 \end{figure}
 
 \begin{figure}[ht!]
@@ -84,12 +82,12 @@
 \begin{problem}{6}
 	\textbf{Driven pendulum with damping} $\ddot{\theta}+2\beta\dot{\theta}+k^{2}sin\theta=\gamma k^{2}cos(\omega t)$ \\
 
-As $\gamma$ increases, the pendulum transitions to chaos, as seen in figure \ref{damped}.  This transition is known as \textit{period doubling}, which is becomes apparent from observing the plots.  
+As $\gamma$ increases, the pendulum transitions to chaos, as seen in figure \ref{damped}.  This transition is known as \textit{period doubling}, which is becomes apparent from observing the plots.  As $\gamma$ increases, some trajectories diverge and become nonperiodic, while some trajectories remain stable and periodic, with a period twice as long as before. Figure \ref{damped} only shows trajectories that remained periodic.
 
 \begin{figure}[h!]
 	\centering
   	\includegraphics[scale=0.5]{../figures/dampedDriven.png}
- 	\caption{Plots of driven damped pendulum for various values of $\gamma \in [0,2]$}
+ 	\caption{Plots of driven damped pendulum for trajectory various values of $\gamma \in [0,2]$}
   	\label{damped}
 \end{figure}
 
@@ -98,4 +96,11 @@ As $\gamma$ increases, the pendulum transitions to chaos, as seen in figure \ref
 %%%%%% 7B %%%%%%
 \begin{problem}{7}
 	\textbf{Fourier analysis}
+
+	\begin{figure}[h!]
+	\centering
+  	\includegraphics[scale=0.5]{../figures/fourier.png}
+ 	\caption{Fourier transform of damped driven pendulum with the parameters shown}
+  	\label{fourier}
+\end{figure}
 \end{problem}
