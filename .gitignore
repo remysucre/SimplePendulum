@@ -1,3 +1,10 @@
+*.fls
+*.aux
+*.fdb_latexmk
+latex/pendulum.pdf
+*.synctex.gz
+.DS_store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
