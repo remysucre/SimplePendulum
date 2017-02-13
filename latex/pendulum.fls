@@ -175,6 +175,9 @@ INPUT ../figures/doublePendAnim.png
 INPUT ../figures/lyapunov.png
 INPUT ../figures/lyapunov.png
 INPUT ../figures/lyapunov.png
+INPUT ../figures/400x400_10.png
+INPUT ../figures/400x400_10.png
+INPUT ../figures/400x400_10.png
 INPUT pendulum.aux
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
