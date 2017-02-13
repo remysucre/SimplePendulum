@@ -19,7 +19,7 @@
 		\includegraphics[scale=0.6]{../figures/phaseSpaceDot.png}
 	\end{minipage}
 	\hfill
-	\begin{minipage}[b]{0.4\textwidth}
+	\begin{minipage}[b]{-- 0.4\textwidth}
 		\includegraphics[scale=0.6]{../figures/phaseSpaceDot2.png}
 	\end{minipage}
 	\caption{Trajectory for various $\dot{\theta}$}
@@ -54,12 +54,17 @@
 
 %%%%%% 4B %%%%%%
 \begin{problem}{4}
-	\textbf{Exploration of driven system} \\
-	Figure \ref{driving2} shows how the trajectories vary with $\gamma$.  
+	\textbf{Exploration of driven system} \\ Figure \ref{driving2} shows how the
+  trajectories vary with $\gamma$. The upper two panes identify values of
+  $\gamma$ that makes the pendulum display periodic behavior: for small
+  $\gamma$, e.g. $0.0$, $0.14$, and $0.28$, the pendulum's motion is not
+  affected much and retains the same period; when $\gamma = 1.43$, the pendulum
+  exhibits period doubling as shown by the red phase space trajectory. The
+  lower two panes show chaotic behavior under different values of $\gamma$. 
 
 \begin{figure}[ht!]
 	\centering
-	\includegraphics[scale=0.5]{../figures/driving2.png}
+	\includegraphics[scale=0.5]{../figures/driving2.pdf}
 	\caption{Trajectories for undamped driven pendulum for $\gamma \in [0,2]$}
 	\label{driving2}
 \end{figure}
