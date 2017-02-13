@@ -1,8 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1487014084 "pendulum.tex" "pendulum.pdf" "pendulum" 1487014087
+["pdflatex"] 1487015982 "pendulum.tex" "pendulum.pdf" "pendulum" 1487015985
   "../figures/dampedDriven.png" 1486936164 144734 d6d9412ebc6459f64baa439fa7a4c3fb ""
   "../figures/diverge2.png" 1486418664 322040 6d4611aac0c9624ffd0dfbac768b4667 ""
-  "../figures/driving2.png" 1486938472 157133 4ac7777136f66c28ed0c26a456fc3bdc ""
+  "../figures/doublePendAnim.png" 1487015838 26262 36a2e391e9a12866013e3481f4818b7a ""
+  "../figures/driving2.pdf" 1487014458 272537 b88ef9003b74abdfa5fa31fb04bb839d ""
   "../figures/drivingForce.png" 1486418065 88540 ff2dac5e10ccab8766f6b500333d58cd ""
   "../figures/energy_time.pdf" 1486938802 17926 33ce4abb136b980f2db2be63069de153 ""
   "../figures/error-10.pdf" 1486937209 19144 cd92883f402e0a9a0beb31cbe9c8cc40 ""
@@ -12,6 +13,7 @@
   "../figures/k17_nonlin.pdf" 1486937209 18632 1d25ea2a3e45dbc98a7d10bbac2b8141 ""
   "../figures/k3_nonlin.pdf" 1486937209 16806 abbe7b9c05dcf284f5425e70ae17e2e1 ""
   "../figures/k9_nonlin.pdf" 1486937209 17255 197865c672b5ed34daa7f0faba465771 ""
+  "../figures/lyapunov.png" 1487015721 18125 2010cc58343a5632a473721c9eac136d ""
   "../figures/phaseSpace.png" 1486415819 166919 1ff87fe7563b5e806aac0e8f11f91259 ""
   "../figures/phaseSpaceDot.png" 1486252814 114698 d5265ee4a8c4a8f710599d84f6d74df9 ""
   "../figures/phaseSpaceDot2.png" 1486252816 63508 45f570d07a75721da1625a615db103ce ""
@@ -83,11 +85,11 @@
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
   "A_part.tex" 1487009495 2192 ea1ff815d355cd9a7d8b7eb42483f67b ""
-  "B_part.tex" 1487011428 4790 c52adef987e7aa3f03ae2fa440eae0a3 ""
-  "C_part.tex" 1487014074 949 96fbdfb90f49dd396161c752245fc5c3 ""
-  "pendulum.aux" 1487014086 2421 a6b6e1aa566ca5ec0f204f80fa743f02 ""
+  "B_part.tex" 1487014458 5208 9d67b65c27c58cae6bdee894c8e499d8 ""
+  "C_part.tex" 1487015973 1020 e717838560d932810d75c7218e562194 ""
+  "pendulum.aux" 1487015984 2437 e5bc4b33fc5d503e73a4037003383a99 ""
   "pendulum.tex" 1487013853 594 96ba80123da7996cf96c9241ae066da4 ""
   (generated)
+  "pendulum.pdf"
   "pendulum.aux"
   "pendulum.log"
-  "pendulum.pdf"
