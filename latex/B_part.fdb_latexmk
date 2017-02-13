@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1486940534 "B_part.tex" "B_part.pdf" "B_part" 1486940535
+["pdflatex"] 1487011430 "B_part.tex" "B_part.pdf" "B_part" 1487011432
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
@@ -7,7 +7,7 @@
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
   "B_part.aux" 1486938914 8 a94a2480d3289e625eea47cd1b285758 ""
-  "B_part.tex" 1486940533 4354 b4d83981fcb565324ef239f4e4b54383 ""
+  "B_part.tex" 1487011428 4790 c52adef987e7aa3f03ae2fa440eae0a3 ""
   (generated)
   "B_part.pdf"
   "B_part.log"
