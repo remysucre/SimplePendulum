@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1487011439 "pendulum.tex" "pendulum.pdf" "pendulum" 1487011444
+["pdflatex"] 1487014084 "pendulum.tex" "pendulum.pdf" "pendulum" 1487014087
   "../figures/dampedDriven.png" 1486936164 144734 d6d9412ebc6459f64baa439fa7a4c3fb ""
   "../figures/diverge2.png" 1486418664 322040 6d4611aac0c9624ffd0dfbac768b4667 ""
   "../figures/driving2.png" 1486938472 157133 4ac7777136f66c28ed0c26a456fc3bdc ""
@@ -16,6 +16,7 @@
   "../figures/phaseSpaceDot.png" 1486252814 114698 d5265ee4a8c4a8f710599d84f6d74df9 ""
   "../figures/phaseSpaceDot2.png" 1486252816 63508 45f570d07a75721da1625a615db103ce ""
   "../figures/phaseSpaceLinear.png" 1486254552 108850 9f4d8be6bc02c5e5433206b1db8ba968 ""
+  "../figures/t=10pi_th0=(05,05)pidoublePend.png" 1487013789 94284 289cd1c38e1e29daba17cd4cd6216086 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -83,10 +84,10 @@
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
   "A_part.tex" 1487009495 2192 ea1ff815d355cd9a7d8b7eb42483f67b ""
   "B_part.tex" 1487011428 4790 c52adef987e7aa3f03ae2fa440eae0a3 ""
-  "C_part.tex" 1486939613 706 747c5eb6f33b79c90fa388825332ffbd ""
-  "pendulum.aux" 1487011443 2252 0b993737f3814ea4cdfd081ecfeef514 ""
-  "pendulum.tex" 1486939321 596 43123ef9aac06c8537c7f51aba26803b ""
+  "C_part.tex" 1487014074 949 96fbdfb90f49dd396161c752245fc5c3 ""
+  "pendulum.aux" 1487014086 2421 a6b6e1aa566ca5ec0f204f80fa743f02 ""
+  "pendulum.tex" 1487013853 594 96ba80123da7996cf96c9241ae066da4 ""
   (generated)
-  "pendulum.pdf"
   "pendulum.aux"
   "pendulum.log"
+  "pendulum.pdf"

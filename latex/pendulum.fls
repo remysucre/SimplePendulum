@@ -166,6 +166,11 @@ INPUT ../figures/fourier.png
 INPUT ../figures/fourier.png
 INPUT C_part.tex
 INPUT C_part.tex
+INPUT ../figures/t=10pi_th0=(05,05)pidoublePend.png
+INPUT ../figures/t=10pi_th0=(05,05)pidoublePend.png
+INPUT ../figures/t=10pi_th0=(05,05)pidoublePend.png
+INPUT ../figures/t=10pi_th0=(05,05)pidoublePend.png
+INPUT ../figures/t=10pi_th0=(05,05)pidoublePend.png
 INPUT pendulum.aux
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
